@@ -1,6 +1,6 @@
 # Installation
 
 ## 1- Create the package.json file
-'npm init'
+`npm init`
 or
-'yarn init'
+`yarn init`
